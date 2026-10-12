@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SimplecrudApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SimplecrudApplication.class, args);
+        SpringApplication.run(SimplecrudApplication.class, args);	//CI test on push
     }
 
 }
